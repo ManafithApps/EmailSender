@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace 'com.abdullghani.emailsender'
-    compileSdk 36 // يفضل استخدام 35 حالياً لضمان الاستقرار
+    compileSdk 35 // يفضل استخدام 35 حالياً لضمان الاستقرار
 
     defaultConfig {
         // تم حذف applicationId لأنه خاص بالتطبيقات فقط وليس المكتبات
